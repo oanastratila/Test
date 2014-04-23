@@ -1,0 +1,12 @@
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\NoduriNomenclatoare.dll
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\NoduriNomenclatoare.pdb
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\work\Clinic.Model\NoduriNomenclatoare\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

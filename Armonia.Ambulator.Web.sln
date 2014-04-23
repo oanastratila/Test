@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armonia.Test.Consola", "Armonia.Test.Consola\Armonia.Test.Consola.csproj", "{123EE958-9585-4406-995D-1A545F89B42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armonia.Ambulator.Model", "Armonia.Ambulator.Model\Armonia.Ambulator.Model.csproj", "{E7F7CB57-4521-4876-B88B-FC99A4C07D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123EE958-9585-4406-995D-1A545F89B42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123EE958-9585-4406-995D-1A545F89B42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123EE958-9585-4406-995D-1A545F89B42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123EE958-9585-4406-995D-1A545F89B42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
